@@ -40,7 +40,6 @@ This Objective-C code's purpose is to retrieve and monitor sensor values, specif
 ## Resources Used:
 
 - https://github.com/fermion-star/apple_sensors
-- 
 - https://developer.apple.com/documentation/iokit
 - https://docs.python.org/3/
 - https://lifehacker.com/stress-test-your-mac-with-the-yes-command-1564681908
